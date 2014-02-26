@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Dem gifs tho
+# Dem gifs
 
 Oh Hai! You've found my Gif collection.
 
